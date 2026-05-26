@@ -55,7 +55,7 @@ class TiHon {
 ## 💛 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/tyrhon?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
