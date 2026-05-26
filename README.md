@@ -1,45 +1,136 @@
 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
-#        🌸 Welcome to tyrhon's 🌸
+<h1 align="center"> 🌸 Welcome to tyrhon's 🌸
 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
-### 🐱‍👤 Hi there, I'm **tyrhon** – my real name is Thảo Ly!
-Feel free to look around. Let's make something cool! ✨
-
 <p align="center">
-  <marquee width="80%">🌳🌿 Welcome to my digital forest, let's explore! 🌿🌳</marquee>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g0Z25ycm9pMngxbnZtY3RmcXR3ZzdubGpycmxlM2FvMGphdm1scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vR4fBfHODP6eT0A8yC/giphy.gif" width="100px" />
-</p>
-
-## 🍃 About Me:
-- 👩‍💻 I'm a first-year IT student passionate about coding and building cool things.
-- 🛠️ Currently focusing on mastering programming fundamentals, data structures, and automation.
-
----
-
-## 📊 My Contribution Journey
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyrhon&theme=tokyonight" alt="tyrhon's Contribution Graph" />
-</p>
-
-## 🏆 LeetCode Achievements
-Tyrhpn
-
-<p align="center">
-  <img src="https://github-readme-leetcode.vercel.app/api?username=TÀI_KHOẢN_LEETCODE_CỦA_BỒ&theme=dark" alt="LeetCode Card" />
-</p>
-<p align="center">
-  <img src="https://leetcode-badge.vercel.app/api?username=TÀI_KHOẢN_LEETCODE_CỦA_BỒ&theme=dark" alt="LeetCode Badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Graph+Theory+Lover+💚;Competitive+Programmer+🌸;Cute+but+Deadly+at+Algorithms+✨;Welcome+to+my+GitHub+🐱" />
 </p>
 
 ---
 
-## 🛠️ My Tech Stack & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:98fb98,100:c084fc&height=220&section=header&text=Ti%20Hon&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="220"/>
+</p>
+
+---
+
+## 🌸 About Me
+
+```cpp
+class TiHon {
+    string major = "Computer Science";
+    string love = "Graph Theory & Algorithms";
+    string vibe = "Cute Pink Cyberpunk";
+    string current_focus = "Competitive Programming";
+};
+```
+
+---
+
+## 🌿 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-98fb98?style=for-the-badge&logo=python&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-90ee90?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/GitHub-f8c8dc?style=for-the-badge&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Linux-98fb98?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+## 🌸 Cute Divider
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=98fb98"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=98fb98"/>
+
+</p>
+
+---
+
+## 🌱 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🐱 Cute Coding Cat
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 🌿 Animated Leaves
+
+<p align="center">
+  <img src="https://media.tenor.com/6ZUs587m8eAAAAAd/leaves.gif" width="100%">
+</p>
+
+---
+
+## 🎀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Cutie+Visitors&color=ff69b4&style=for-the-badge"/>
+</p>
+
+---
+
+## 💚 Spotify / Music Vibes (Optional)
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+</p>
+
+---
+
+## 🌸 Fun Animation
+
+<p align="center">
+  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/dog-computer.gif" width="250"/>
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+
+> "Cute outside. Graph theory monster inside."
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98fb98,50:ff69b4,100:c084fc&height=120&section=footer"/>
 </p>
