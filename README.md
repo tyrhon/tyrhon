@@ -1,18 +1,8 @@
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 <h1 align="center"> 🌸 Welcome to tyrhon's 🌸
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Graph+Theory+Lover+💚;Competitive+Programmer+🌸;Cute+but+Deadly+at+Algorithms+✨;Welcome+to+my+GitHub+🐱" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:98fb98,100:c084fc&height=220&section=header&text=Ti%20Hon&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="220"/>
@@ -51,15 +41,11 @@ class TiHon {
 
 </p>
 
----
-
-## 🌸 Cute Divider
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20">
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -71,23 +57,12 @@ class TiHon {
 
 </p>
 
----
-
 ## 🌱 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
-## 🐱 Cute Coding Cat
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</p>
-
----
 
 ## 🌿 Animated Leaves
 
@@ -111,13 +86,6 @@ class TiHon {
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
 </p>
 
----
-
-## 🌸 Fun Animation
-
-<p align="center">
-  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/dog-computer.gif" width="250"/>
-</p>
 
 ---
 
