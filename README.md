@@ -1,23 +1,33 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=150&section=header&text=Welcome%20to%20tyrhon's%20den&fontSize=50&fontAlign=50&fontColor=white" />
+
 # Hi there, I'm tyrhon - my real name is Thảo Ly! 
 
-### 💫 About Me:
-- 🚀 I'm a first-year IT student passionate about coding and building cool things.
-- 🛠️ Currently focusing on mastering programming fundamentals, data structures, and automation.
-- 🎨 Fun fact: I love customizing my digital workspace and making things look aesthetic!
+<p align="center">
+  <marquee width="80%">🌳🌿 Welcome to my digital forest 🌿🌳</marquee>
+</p>
+
+### About Me:
+- I'm a first-year IT student passionate about coding and building cool things.
+- Currently focusing on mastering programming fundamentals, data structures, and automation.
 
 ---
 
 ### 📊 GitHub Stats & Commits:
-Chỗ này sẽ tự động quét và hiện toàn bộ số commit, độ chăm chỉ của bồ lên nè:
 
-<!-- Hệ thống phân tích rank và tổng commit -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyrhon&show_icons=true&theme=tokyonight&count_private=true" alt="tyrhon's GitHub Stats" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g0Z25ycm9pMngxbnZtY3RmcXR3ZzdubGpycmxlM2FvMGphdm1scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vR4fBfHODP6eT0A8yC/giphy.gif" width="80px" />
 </p>
 
-<!-- Hệ thống hiện các ngôn ngữ bồ code nhiều nhất -->
+<!--Biểu đồ đóng góp GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrhon&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyrhon&theme=tokyonight" alt="tyrhon's Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-badge.herokuapp.com/?username=TÀI_KHOẢN_LEETCODE_CỦA_BỒ&theme=dark" alt="LeetCode Stats" />
+</p>
+<p align="center">
+  <img src="https://leetcode-badge.vercel.app/api?username=TÀI_KHOẢN_LEETCODE_CỦA_BỒ&theme=dark" alt="LeetCode Calendar" />
 </p>
 
 ---
