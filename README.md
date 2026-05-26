@@ -14,7 +14,7 @@
 class TiHon {
     string major = "Computer Science";
     string love = "Graph Theory & Algorithms";
-    string vibe = "Cute Pink Cyberpunk";
+    string vibe = "Cool";
     string current_focus = "Competitive Programming";
 };
 ```
@@ -72,7 +72,7 @@ class TiHon {
 
 <p align="center">
 
-> "Cute outside. Graph theory monster inside."
+> "No Care. No fare."
 
 </p>
 
