@@ -8,8 +8,6 @@
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="220"/>
 </p>
 
----
-
 ## 🌸 About Me
 
 ```cpp
@@ -47,16 +45,6 @@ class TiHon {
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=98fb98"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=98fb98"/>
-
-</p>
-
 ## 🌱 Contribution Snake
 
 <p align="center">
@@ -64,10 +52,10 @@ class TiHon {
 </p>
 
 
-## 🌿 Animated Leaves
+## 💛 LeetCode Stats
 
 <p align="center">
-  <img src="https://media.tenor.com/6ZUs587m8eAAAAAd/leaves.gif" width="100%">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
@@ -80,15 +68,6 @@ class TiHon {
 
 ---
 
-## 💚 Spotify / Music Vibes (Optional)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
-</p>
-
-
----
-
 ## ✨ Quote
 
 <p align="center">
@@ -97,8 +76,3 @@ class TiHon {
 
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98fb98,50:ff69b4,100:c084fc&height=120&section=footer"/>
-</p>
